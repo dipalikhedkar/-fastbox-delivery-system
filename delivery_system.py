@@ -16,7 +16,7 @@ Usage:
     python delivery_system.py test_case_3.json     # reads a different input file
     python delivery_system.py data.json -o out.json
 
-Author: (candidate submission for Nexgensis Technologies Python Developer assignment)
+Author: (submission for Nexgensis Technologies Python Developer assignment)
 """
 
 import json
